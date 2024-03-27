@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajesh-kumar-ctuil
+## Heading- 👋 Hi, I’m @rajesh-kumar
 - 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on application of Data Science in Energy Management.
